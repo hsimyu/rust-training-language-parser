@@ -1,0 +1,6 @@
+[package]
+name = "rust_parser"
+version = "0.1.0"
+authors = ["hsimyu <hsimyu1900@gmail.com>"]
+
+[dependencies]
